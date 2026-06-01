@@ -1,1 +1,1 @@
-# ganttchart_5
+# html-gantt-chart-5
